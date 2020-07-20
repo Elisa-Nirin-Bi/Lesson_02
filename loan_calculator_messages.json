@@ -1,0 +1,17 @@
+{
+  "en": {
+  "welcome": "Welcome to your Loan Calculator!",
+  "invalid": "Invalid entry. Please try again.",
+  "loanAmount": "Please enter the amount of your loan (without the $ symbol).",
+  "annualInterestRate": "Please enter your annual percentage rate (APR) (without the % symbol).",
+  "loanDuration": "Please enter the loan duration in months.",
+  "additionalCalculation": "Would you like to perform another calculation? Type Y for Yes and N for No."
+},
+  "it": {
+  "welcome": "Benvenuto al tuo calcolatore del mutuo!", 
+  "invalid": "Dato invalido. Perfavore tenta nuovamente.", 
+  "loanAmount": "Perfavore immetti l´ammontare del tuo mutuo (senza simbolo $)",
+  "annualInterestRate": "Perfavore immetti la tua rata percentuale annuale (senza simbolo %).", 
+  "loanDuration": "Perfavore immetti la durata del tuo mutuo in mesi.",
+  "additionalCalculation": "Vuoi fare un altro calcolo? Scrivi Y per Yes e N per No."
+}}
